@@ -34,7 +34,7 @@ Over 18 IPL seasons, sixes per match nearly doubled from around 9 to 18, while f
 
 **2. The Fours-to-Sixes ratio callapsed**
 In 2011 and 2013, there were 3 fours for every six hit. By 2024, that raio dropped to 1.7. Batsmen have shifted from finding gaps and between wickets to swinging for the boundary. In other words, the ratio of fours to sixes dropped from 3:1 in the early seasons to 1.7:1 by 2024. Batsmen used to score 3 fours for every six they hit. Now it's almost equal. This confirms that the shift isn't just about scoring more, it's about how they score. 
-
+![Description](02_ratio_fours_vs_sixes_per_season.png)
 
 **3. Where did the extra runs come from? Do balls disappered.**
 Looking at percentage of balls result in dots, singles, fours, and sixes, the answer is clear. In order words, dot balls dropped significantly in the poweplay (53.6% to 48.5%) and middle overs (37% to 34.3%), but slighlty increased in the death overs (32.9% to 34.2%). The powerplay saw the biggest shift, batsmen stopped defending and started attacking from ball one. The death over tells a different story, more dots alongside more sixes suggests a boom-or-bust apporach where batsmen swing for maximum power, resulting in either a six or a complete miss.
