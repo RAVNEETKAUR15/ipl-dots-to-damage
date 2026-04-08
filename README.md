@@ -1,10 +1,24 @@
-# From Dots to Damage - How IPL Batsmen Eliminated Dead Balls
+# 🏏 From Dots to Damage - How IPL Batsmen Eliminated Dead Balls
 ### ***ORU IPL Analytics Hackathon - Phase 1 Submission***
 
 ## The Question
 The IPL has been running for 18 seasons. I wanted to know has the way batsmen score actually changed over time? And if so, where in the innings did it change the most, and did it come at a cost?
 
 As someone who isn't a big cricket love, I don't follow cricket, I juste followed the data. Here's what it told me.
+
+Since this analysis should be readble by anyone (including people like me who are new to cricket), here are the key terms used throughout:
+- **Innings:** One teams's turn to bat. Each IPL match has 2 innings, one per team.
+- **Over:** A set of 6 legal balls bowled by one bowler. Each innings has 20 overs (120 balls total).
+- **Dot ball:** Any delivery where zero runs are scored. The batsman either misses, defends, or the fielder stops the ball. From the batting team's perspective, a dot ball is waster, you only get 120 balls, so every is an oppourtunity lost.
+- **Boundary:** A 4 (when ball rolls to the boundary rope) or a 6 (ball flies over it).
+- **Powerplay (Overs 1-6):** The opening phase where fielding restrictions limit how players can stand far from the batsman. In  theory, this should favour attacking batting but the ball is also brand new and moved more, so bowlers get early wickets here. That's why the dot ball % is highes in the powerplay, batsmen play cautiously against good bowling even though the field is in their favour.
+- **Middle (Overs 7-15):** The "build" phase. Field restrictions are lifted, so the fielding team spreads out. Batsmen traditionally takes singles and rotate strike here, waiting for the occasional bad ball to hit a boundary. It's the least exciting phase.
+- **Death (Overs 16-20):** The finishing phase. Batsmen go all-out because they are running out of balls. This is where the sixes pile up. Bowlers try full-length balls aimed at the batsmen's feet to limit damage.
+- **Dismissal/Wicket/Getting Out:** A batsman is forced to stop batting. Common types: caught (fielder catched the ball), bowled (ball hits the stumps), LBW (leg blocks the stumps).
+- **Strike Rate:** Runs scored per 100 balls, measures how fast a batsman scores.
+- **Run Rate:** Runs scored per over, measures the scoring speed of a team.
+
+
 
 ## Dataset
 1. **Source:** IPL ball-by-ball data (2007-2025) from Crisheet, via https://github.com/SahilGogna/IPL-Hackathon
@@ -14,7 +28,8 @@ As someone who isn't a big cricket love, I don't follow cricket, I juste followe
 
 ## Key Findings
 1. **1. Sixes nearly doubled - fours stayled flat**
-   Over 18 IPL seasons, sixes per match nearly doubled from around 9 to 18, while fours per match barely changed, staying around 26-30. This tells us that batsmen aren't just scoring more, they are specifiicaly hitting more sixes. The way runs are scored has fundamentally shifted towards power hitting.
+Over 18 IPL seasons, sixes per match nearly doubled from around 9 to 18, while fours per match barely changed, staying around 26-30. This tells us that batsmen aren't just scoring more, they are specifiicaly hitting more sixes. The way runs are scored has fundamentally shifted towards power hitting.
+![Description](filename.png)
    
 
 **2. The Fours-to-Sixes ratio callapsed**
