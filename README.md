@@ -29,7 +29,7 @@ Since this analysis should be readble by anyone (including people like me who ar
 ## Key Findings
 1. **1. Sixes nearly doubled - fours stayled flat**
 Over 18 IPL seasons, sixes per match nearly doubled from around 9 to 18, while fours per match barely changed, staying around 26-30. This tells us that batsmen aren't just scoring more, they are specifiicaly hitting more sixes. The way runs are scored has fundamentally shifted towards power hitting.
-![Description](filename.png)
+![Description](01_sixes_vs_fours_per_match.png)
    
 
 **2. The Fours-to-Sixes ratio callapsed**
