@@ -6,10 +6,10 @@ The IPL has been running for 18 seasons. I wanted to know has the way batsmen sc
 
 As someone who isn't a big cricket lover, I don't follow cricket, I just followed the data. Here's what it told me.
 
-Since this analysis should be readble by anyone (including people like me who are new to cricket), here are the key terms used throughout:
-- **Innings:** One teams's turn to bat. Each IPL match has 2 innings, one per team.
+Since this analysis should be readable by anyone (including people like me who are new to cricket), here are the key terms used throughout:
+- **Innings:** One team's turn to bat. Each IPL match has 2 innings, one per team.
 - **Over:** A set of 6 legal balls bowled by one bowler. Each innings has 20 overs (120 balls total).
-- **Dot ball:** Any delivery where zero runs are scored. The batsman either misses, defends, or the fielder stops the ball. From the batting team's perspective, a dot ball is waster, you only get 120 balls, so every is an oppourtunity lost.
+- **Dot ball:** Any delivery where zero runs are scored. The batsman either misses, defends, or the fielder stops the ball. From the batting team's perspective, a dot ball is wasted, you only get 120 balls, so every dot is an oppourtunity lost.
 - **Boundary:** A 4 (when ball rolls to the boundary rope) or a 6 (ball flies over it).
 - **Powerplay (Overs 1-6):** The opening phase where fielding restrictions limit how players can stand far from the batsman. In  theory, this should favour attacking batting but the ball is also brand new and moved more, so bowlers get early wickets here. That's why the dot ball % is highes in the powerplay, batsmen play cautiously against good bowling even though the field is in their favour.
 - **Middle (Overs 7-15):** The "build" phase. Field restrictions are lifted, so the fielding team spreads out. Batsmen traditionally takes singles and rotate strike here, waiting for the occasional bad ball to hit a boundary. It's the least exciting phase.
