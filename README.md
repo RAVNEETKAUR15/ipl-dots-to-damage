@@ -21,7 +21,7 @@ Since this analysis should be readble by anyone (including people like me who ar
 
 
 ## Dataset
-1. **Source:** IPL ball-by-ball data (2007-2025) from Crisheet, via https://github.com/SahilGogna/IPL-Hackathon
+1. **Source:** IPL ball-by-ball data (2007-2025) from Crisheet, via [GitHub Pages](https://github.com/SahilGogna/IPL-Hackathon)
 2. **Deliveries:** 278, 205 rows - every ball bowled across 18 seasons
 3. **Matches:** 1,169 rows - match-level metadata
 4. **Tools used:** Python - pandas, matplotlib, seaborn
