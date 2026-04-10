@@ -76,3 +76,10 @@ The Aggressive Index that is a metric caculated by combining the boundary percen
 ![Description](10_aggression_index.png)
 
 
+## The Takeaway
+IPL batting has been fundamentally reprogrammed over 18 seasons. Batsmen have learned to convert dot balls into boundaries, especially in the powerplay without getting out more often. This wasn't reckless slogging. It was a systematic skills upgrade across the entire innings.
+
+The biggest surprise? The revolution didn't happen in the death overs where you'd expect it. It happened in the powerplay, the first six overs where the dot ball rates dropped by nearly 6 percentage points and boundary rates jumped significantly. 
+
+And the cost of all this aggreision? Zero. Dismissals per match stayed flat at ~12 for 18 years straight.
+
