@@ -37,7 +37,7 @@ In 2011 and 2013, there were 3 fours for every six hit. By 2024, that ratio drop
 ![Fours to Sixes Ratio](02_ratio_fours_vs_sixes_per_season.png)
 
 **3. Where did the extra runs come from? Dot balls disappered.**
-Looking at percentage of balls result in dots, singles, fours, and sixes, the answer is clear. In order words, dot balls dropped significantly in the poweplay (53.6% to 48.5%) and middle overs (37% to 34.3%), but slighlty increased in the death overs (32.9% to 34.2%). The powerplay saw the biggest shift, batsmen stopped defending and started attacking from ball one. The death over tells a different story, more dots alongside more sixes suggests a boom-or-bust apporach where batsmen swing for maximum power, resulting in either a six or a complete miss.
+Looking at percentage of balls result in dots, singles, fours, and sixes, the answer is clear. In other words, dot balls dropped significantly in the powerplay (53.6% to 48.5%) and middle overs (37% to 34.3%), but slightly increased in the death overs (32.9% to 34.2%). The powerplay saw the biggest shift, batsmen stopped defending and started attacking from ball one. The death over tells a different story, more dots alongside more sixes suggests a boom-or-bust approach where batsmen swing for maximum power, resulting in either a six or a complete miss.
 ![Dot Ball % by Phase](03_powerplay_dot_ball_revolution.png)
 
 **4. The Powerplay is where the revolution happened**
@@ -45,34 +45,34 @@ Tracking the powerplay season by season reveals a clear turning point around 201
 ![Powerplay Dots vs Sixes](04_powerplay_dots_vs_sixes.png)
 
 
-**5. Every phase got more aggresive but the Powerplay changed the most**
-All three phases of the innings show increasing runs per over, but the powerplay saw the biggest relative jump. In ealry seasons, the powerplay scored around 7 runs per over, well below the death overs at 9.5. By 2025, the powerplay reached over 9 runs per over, close to where death overs were a decade ago. The gap between phases is shrinking as batsmen atttack aggresively from the start.
+**5. Every phase got more aggressive but the Powerplay changed the most**
+All three phases of the innings show increasing runs per over, but the powerplay saw the biggest relative jump. In early seasons, the powerplay scored around 7 runs per over, well below the death overs at 9.5. By 2025, the powerplay reached over 9 runs per over, close to where death overs were a decade ago. The gap between phases is shrinking as batsmen attack aggresively from the start.
 ![Runs per over by phase](05_runs_per_over_by_phase.png)
 
 
 **6. Over 7 - the boundary cliff that never changed**
-Boundary percentage increased across most overs between the two eras, with the biggest gains in the powerplay (overs 2-6) and death overs (18-20). The over-by-over breakdown reveals that over 7 (when fielding restrictions are lifted) has been the hardest over to hit boundaries in for all 18 seasons. Everything around it got more aggreive. This is the over when fielding restrctions are lifted and the fielding team can spread their players out. It's been the hardest over to hit boundaries in for all 18 seasons, and the modern batting revolution hasn't changed that.
+Boundary percentage increased across most overs between the two eras, with the biggest gains in the powerplay (overs 2-6) and death overs (18-20). The over-by-over breakdown reveals that over 7 (when fielding restrictions are lifted) has been the hardest over to hit boundaries in for all 18 seasons. Everything around it got more aggressive. This is the over when fielding restrictions are lifted and the fielding team can spread their players out. 
 ![Boundary % by Over](06_boundary_pct_by_over.png)
 
 
 **7. 18 years of Boundaries in one image**
-This captures the entire story in one image, boundary percentage for every over in every season. The most striking feature is the bottm-left corner turning deep red, powerplay overs in recent seasons have the highest boundary rates in IPL history. Over 7 appears as a pale stripe running from top to bottom, it has been the lowest boundary over for all 18 seasons regardless of era. The bottom-right corner also darkens, showing death overs getting more aggresive. You can literally see the batting revolution happening from top to bottom. 
+This captures the entire story in one image, boundary percentage for every over in every season. The most striking feature is the bottom-left corner turning deep red, powerplay overs in recent seasons have the highest boundary rates in IPL history. Over 7 appears as a pale stripe running from top to bottom, it has been the lowest boundary over for all 18 seasons regardless of era. The bottom-right corner also darkens, showing death overs getting more aggressive. You can literally see the batting revolution happening from top to bottom. 
 ![Boundary Heatmap](07_boundary_heatmap.png)
 
 
 **8. The Free Lunch - More Aggressive, same dismissals**
-Despite all the increased aggresion, sixes doubling, dot balls dropping, boundaries increasing across the powerplay, the dismissal rate per match has stayed flat at around 12 across all 18 seasons. Batsmen aren't getting out more often even though they are swinging harder. This suggests the shift toward power hitting wasn't reckless, batsmen developed the skill to be aggreive without sacrificing their wickets.
+Despite all the increased aggression, sixes doubling, dot balls dropping, boundaries increasing across the powerplay, the dismissal rate per match has stayed flat at around 12 across all 18 seasons. Batsmen aren't getting out more often even though they are swinging harder. This suggests the shift toward power hitting wasn't reckless, batsmen developed the skill to be aggressive without sacrificing their wickets.
 ![Dimissals per match](08_dismissals_per_match.png)
 
 
 **9. Sixes doubled, wickets didn't - side by side**
-This chart overlays sixes per match (bars) with dismissals per match (line) to make the contrast undeniable. Sixes nearly doubled from ~9 to ~18 per match, while dismissals stayed flat at around 12. The two metrics moved completely independently the aggression came at no cost.
+This chart overlays sixes per match (bars) with dismissals per match (line) to make the contrast undeniable. Sixes nearly doubled from ~9 to ~18 per match, while dismissals stayed flat at around 12. The two metrics moved completely independently, the aggression came at no cost.
 ![Sixes vs Dismissals](09_sixes_vs_dismissals.png)
 
 
 
 **10. The Aggressive Index - one number for 18 years of change**
-The Aggressive Index that is a metric caculated by combining the boundary percentage, six percentage and the dot ball percentage into one number which shows a stead climb from -26 in 2009 to -8 in 2025. This captures the entire story of this analysis in a single line, IPL batting intent has been systematically increasing for over a decade. it's not a sudden change, it's a gradual, sustained reprogramming of how batsmen approach the game.
+The Aggressive Index that is a metric calculated by combining the boundary percentage, six percentage and the dot ball percentage into one number which shows a steady climb from -26 in 2009 to -8 in 2025. This captures the entire story of this analysis in a single line, IPL batting intent has been systematically increasing for over a decade. It's not a sudden change, it's a gradual, sustained reprogramming of how batsmen approach the game.
 ![Aggression Index](10_aggression_index.png)
 
 
@@ -81,5 +81,5 @@ IPL batting has been fundamentally reprogrammed over 18 seasons. Batsmen have le
 
 The biggest surprise? The revolution didn't happen in the death overs where you'd expect it. It happened in the powerplay, the first six overs where the dot ball rates dropped by nearly 6 percentage points and boundary rates jumped significantly. 
 
-And the cost of all this aggreision? Zero. Dismissals per match stayed flat at ~12 for 18 years straight.
+And the cost of all this aggression? Zero. Dismissals per match stayed flat at ~12 for 18 years straight.
 
