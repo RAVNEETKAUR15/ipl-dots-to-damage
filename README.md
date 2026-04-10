@@ -62,7 +62,7 @@ This captures the entire story in one image, boundary percentage for every over 
 
 **8. The Free Lunch - More Aggressive, same dismissals**
 Despite all the increased aggresion, sixes doubling, dot balls dropping, boundaries increasing across the powerplay, the dismissal rate per match has stayed flat at around 12 across all 18 seasons. Batsmen aren't getting out more often even though they are swinging harder. This suggests the shift toward power hitting wasn't reckless, batsmen developed the skill to be aggreive without sacrificing their wickets.
-![Description](08_boundary_per_match.png)
+![Description](08_dismissals_per_match.png)
 
 
 **9. Sixes doubled, wickets didn't - side by side**
