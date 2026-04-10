@@ -9,7 +9,7 @@ As someone who isn't a big cricket lover, I don't follow cricket, I just followe
 Since this analysis should be readable by anyone (including people like me who are new to cricket), here are the key terms used throughout:
 - **Innings:** One team's turn to bat. Each IPL match has 2 innings, one per team.
 - **Over:** A set of 6 legal balls bowled by one bowler. Each innings has 20 overs (120 balls total).
-- **Dot ball:** Any delivery where zero runs are scored. The batsman either misses, defends, or the fielder stops the ball. From the batting team's perspective, a dot ball is wasted, you only get 120 balls, so every dot is an oppourtunity lost.
+- **Dot ball:** Any delivery where zero runs are scored. The batsman either misses, defends, or the fielder stops the ball. From the batting team's perspective, a dot ball is wasted, you only get 120 balls, so every dot is an opportunity lost.
 - **Boundary:** A 4 (when ball rolls to the boundary rope) or a 6 (ball flies over it).
 - **Powerplay (Overs 1-6):** The opening phase where fielding restrictions limit how players can stand far from the batsman. In  theory, this should favour attacking batting but the ball is also brand new and moves more, so bowlers get early wickets here. That's why the dot ball % is highest in the powerplay, batsmen play cautiously against good bowling even though the field is in their favour.
 - **Middle (Overs 7-15):** The "build" phase. Field restrictions are lifted, so the fielding team spreads out. Batsmen traditionally take singles and rotate strike here, waiting for the occasional bad ball to hit a boundary. It's the least exciting phase.
@@ -36,7 +36,7 @@ Over 18 IPL seasons, sixes per match nearly doubled from around 9 to 18, while f
 In 2011 and 2013, there were 3 fours for every six hit. By 2024, that ratio dropped to 1.7. Batsmen have shifted from finding gaps and running between wickets to swinging for the boundary. In other words, the ratio of fours to sixes dropped from 3:1 in the early seasons to 1.7:1 by 2024. Batsmen used to score 3 fours for every six they hit. Now it's almost equal. This confirms that the shift isn't just about scoring more, it's about how they score. 
 ![Fours to Sixes Ratio](02_ratio_fours_vs_sixes_per_season.png)
 
-**3. Where did the extra runs come from? Dot balls disappered.**
+**3. Where did the extra runs come from? Dot balls disappeared.**
 Looking at percentage of balls result in dots, singles, fours, and sixes, the answer is clear. In other words, dot balls dropped significantly in the powerplay (53.6% to 48.5%) and middle overs (37% to 34.3%), but slightly increased in the death overs (32.9% to 34.2%). The powerplay saw the biggest shift, batsmen stopped defending and started attacking from ball one. The death over tells a different story, more dots alongside more sixes suggests a boom-or-bust approach where batsmen swing for maximum power, resulting in either a six or a complete miss.
 ![Dot Ball % by Phase](03_powerplay_dot_ball_revolution.png)
 
@@ -46,7 +46,7 @@ Tracking the powerplay season by season reveals a clear turning point around 201
 
 
 **5. Every phase got more aggressive but the Powerplay changed the most**
-All three phases of the innings show increasing runs per over, but the powerplay saw the biggest relative jump. In early seasons, the powerplay scored around 7 runs per over, well below the death overs at 9.5. By 2025, the powerplay reached over 9 runs per over, close to where death overs were a decade ago. The gap between phases is shrinking as batsmen attack aggresively from the start.
+All three phases of the innings show increasing runs per over, but the powerplay saw the biggest relative jump. In early seasons, the powerplay scored around 7 runs per over, well below the death overs at 9.5. By 2025, the powerplay reached over 9 runs per over, close to where death overs were a decade ago. The gap between phases is shrinking as batsmen attack aggressively from the start.
 ![Runs per over by phase](05_runs_per_over_by_phase.png)
 
 
