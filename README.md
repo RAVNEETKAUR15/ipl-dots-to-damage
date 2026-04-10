@@ -4,7 +4,7 @@
 ## The Question
 The IPL has been running for 18 seasons. I wanted to know has the way batsmen score actually changed over time? And if so, where in the innings did it change the most, and did it come at a cost?
 
-As someone who isn't a big cricket love, I don't follow cricket, I juste followed the data. Here's what it told me.
+As someone who isn't a big cricket lover, I don't follow cricket, I just followed the data. Here's what it told me.
 
 Since this analysis should be readble by anyone (including people like me who are new to cricket), here are the key terms used throughout:
 - **Innings:** One teams's turn to bat. Each IPL match has 2 innings, one per team.
