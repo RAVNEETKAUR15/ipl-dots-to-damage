@@ -105,7 +105,7 @@ And the cost of all this aggression? Zero. Dismissals per match stayed flat at ~
 ## How to Run
 1. Clone this repo
 2. Place 'deliveries_updated_ipl_upto_2025.csv' and 'matches_updated_ipl_upto_2025.csv' in the root directory (download from the [hackathon repo](https://github.com/SahilGogna/IPL-Hackathon))
-3. Run 'pip install pandas matplotlib seaborn numpy'
+3. Run 'pip install pandas matplotlib, seaborn, numpy'
 4. Open 'jupyter notebook IPL_Analysis.ipynb'
 
 
