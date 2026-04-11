@@ -110,20 +110,20 @@ And the cost of all this aggression? Zero. Dismissals per match stayed flat at ~
 
 
 ## Project Structure
-├── IPL_Analysis.ipynb
-├── 01_sixes_vs_fours_per_match.png
-├── 02_ratio_fours_vs_sixes_per_season.png
-├── 03_powerplay_dot_ball_revolution.png
-├── 04_powerplay_dots_vs_sixes.png
-├── 05_runs_per_over_by_phase.png
-├── 06_boundary_pct_by_over.png
-├── 07_boundary_heatmap.png
-├── 08_dismissals_per_match.png
-├── 09_sixes_vs_dismissals.png
-├── 10_aggression_index.png
-├── 11_economy_rate_by_season.png
-├── 12_dismissal_types_by_era.png
-└── README.md
+1. 01_sixes_vs_fours_per_match.png
+2. 02_ratio_fours_vs_sixes_per_season.png
+3. 03_powerplay_dot_ball_revolution.png
+4. 04_powerplay_dots_vs_sixes.png
+5. 05_runs_per_over_by_phase.png
+6. 06_boundary_pct_by_over.png
+7. 07_boundary_heatmap.png
+8. 08_dismissals_per_match.png
+9. 09_sixes_vs_dismissals.png
+10. 10_aggression_index.png
+11. 11_economy_rate_by_season.png
+12. 12_dismissal_types_by_era.png
+13. IPL_Analysis.ipynb
+14. README.md
 
 
 ----
