@@ -62,7 +62,7 @@ This captures the entire story in one image, boundary percentage for every over 
 
 **8. The Free Lunch - More Aggressive, same dismissals**
 Despite all the increased aggression, sixes doubling, dot balls dropping, boundaries increasing across the powerplay, the dismissal rate per match has stayed flat at around 12 across all 18 seasons. Batsmen aren't getting out more often even though they are swinging harder. This suggests the shift toward power hitting wasn't reckless, batsmen developed the skill to be aggressive without sacrificing their wickets.
-![Dimissals per match](08_dismissals_per_match.png)
+![Dismissals per match](08_dismissals_per_match.png)
 
 
 **9. Sixes doubled, wickets didn't - side by side**
@@ -76,6 +76,19 @@ The Aggressive Index that is a metric calculated by combining the boundary perce
 ![Aggression Index](10_aggression_index.png)
 
 
+## The Bowlers side of the Story
+The first 10 findings told the batting story. But every ball has two sides, if batsmen got more aggressive, what happened to the bowlers?
+
+**11. The Bowler's Price - Economy Rates hit all time highs**
+The economy rate - how many runs bowlers are giving away per over, climbed from 7.2 in 2009 to 9.2 in 2025. Bowlers are giving away 2 extra runs per over compared to the early seasons. This is the other side of the batting revolution, as batsmen got more aggressive, bowlers paid the price.
+![Economy Rate by Season](11_economy_rate_by_season.png)
+
+
+**12. How Batsmen Get out has changed, More Caught, Fewer Bowled**
+The way batsmen get out has shifted in exactly the way you'd expect from the aggression revolution. 'Caught' dismissals rose from 59.4% to 64.4%, batsmen are swinging harder and hitting the ball in the air more, giving fielders more catching opportunities. 'Bowled' dropped from 18.7% to 16.1% because batsmen are attacking rather than defending, so they're less likely to miss a defensive shot and lose their stumps. 'Run out' fell from 9.6% to 7.7% because batsmen are hitting boundaries instead of running between wickets, you can't get run out if the ball goes to the fence.
+![Dismissal Types by Era](12_dismissal_types_by_era.png)
+
+
 ## The Takeaway
 IPL batting has been fundamentally reprogrammed over 18 seasons. Batsmen have learned to convert dot balls into boundaries, especially in the powerplay without getting out more often. This wasn't reckless slogging. It was a systematic skills upgrade across the entire innings.
 
@@ -83,3 +96,36 @@ The biggest surprise? The revolution didn't happen in the death overs where you'
 
 And the cost of all this aggression? Zero. Dismissals per match stayed flat at ~12 for 18 years straight.
 
+## Novel Contributions
+- **The Aggression Index:** A compsite metric (Boundary% + Six% - Dot%) that captures the shift in batting intent in a single number across seasons. This is not a standard cricket metric, it was created for this analysis.
+- **The Over 7 Insight:** Most cricket analysis focuses on powerplay and death overs. This project highlights that over 7, the moment fielding restrictions lift, is a boundary cliff that has remained unchanged for 18 years. 
+- **The "Free Lunch":** The aggression revolution came at no cost in terms of dismissals, 18 seasons of flat dismissal rates alongside doubling six-hitting rates.
+
+
+## How to Run
+1. Clone this repo
+2. Place 'deliveries_updated_ipl_upto_2025.csv' and 'matches_updated_ipl_upto_2025.csv' in the root directory (download from the [hackathon repo](https://github.com/SahilGogna/IPL-Hackathon))
+3. Run 'pip install pandas matplotlib seaborn numpy'
+4. Open 'jupyter notebook IPL_Analysis.ipynb'
+
+
+## Project Structure
+├── IPL_Analysis.ipynb
+├── 01_sixes_vs_fours_per_match.png
+├── 02_ratio_fours_vs_sixes_per_season.png
+├── 03_powerplay_dot_ball_revolution.png
+├── 04_powerplay_dots_vs_sixes.png
+├── 05_runs_per_over_by_phase.png
+├── 06_boundary_pct_by_over.png
+├── 07_boundary_heatmap.png
+├── 08_dismissals_per_match.png
+├── 09_sixes_vs_dismissals.png
+├── 10_aggression_index.png
+├── 11_economy_rate_by_season.png
+├── 12_dismissal_types_by_era.png
+└── README.md
+
+
+----
+
+*Built for the [ORU IPL Analytics Hackathon](https://github.com/SahilGogna/IPL-Hackathon)*
